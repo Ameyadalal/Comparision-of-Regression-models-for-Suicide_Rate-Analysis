@@ -1,0 +1,1 @@
+# Comparision-of-Regression-models-for-Suicide_Rate-Analysis
